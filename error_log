@@ -1,0 +1,12 @@
+[27-Apr-2018 12:58:18 Asia/Jakarta] PHP Warning:  Missing argument 5 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 16 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 12:58:18 Asia/Jakarta] PHP Warning:  Missing argument 6 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 16 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 12:58:18 Asia/Jakarta] PHP Warning:  Missing argument 7 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 16 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 12:58:18 Asia/Jakarta] PHP Warning:  Missing argument 5 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 17 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 12:58:18 Asia/Jakarta] PHP Warning:  Missing argument 6 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 17 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 12:58:18 Asia/Jakarta] PHP Warning:  Missing argument 7 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 17 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 13:00:14 Asia/Jakarta] PHP Warning:  Missing argument 5 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 16 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 13:00:14 Asia/Jakarta] PHP Warning:  Missing argument 6 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 16 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 13:00:14 Asia/Jakarta] PHP Warning:  Missing argument 7 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 16 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 13:00:15 Asia/Jakarta] PHP Warning:  Missing argument 5 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 17 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 13:00:15 Asia/Jakarta] PHP Warning:  Missing argument 6 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 17 and defined in /home2/imamxmet/public_html/function.php on line 5
+[27-Apr-2018 13:00:15 Asia/Jakarta] PHP Warning:  Missing argument 7 for smtp_mail(), called in /home2/imamxmet/public_html/example.php on line 17 and defined in /home2/imamxmet/public_html/function.php on line 5
